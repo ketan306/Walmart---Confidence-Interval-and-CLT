@@ -49,5 +49,3 @@ Extend the same analysis to understand how spending behavior varies for married 
 Provide recommendations and action items to help Walmart leverage these findings for a better shopping experience. 🤝💼
 
 Let's embark on this data-driven adventure and explore the fascinating world of Walmart's Black Friday shopping data! Feel free to contribute, provide feedback, or star this repository if you find it helpful. 🌟🤗
-
-Happy coding and analyzing! 📊👩‍💻👨‍💻🚀
