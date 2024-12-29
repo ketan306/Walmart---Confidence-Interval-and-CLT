@@ -1,4 +1,4 @@
-### Walmart - Confidence Interval and CLT 📈🛒
+# Walmart - Confidence Interval and CLT 📈🛒
 
 Welcome to the Walmart Confidence Interval and Central Limit Theorem (CLT) project! 🚀 In this project, we'll explore customer purchase behavior at Walmart during Black Friday and dive into the world of data analysis to help Walmart make data-driven decisions. 📊
 
